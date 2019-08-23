@@ -1,2 +1,20 @@
-# dc2g
-Deep Cost-to-Go Planning Algorithm (IROS '19)
+# DC2G: Deep Cost-to-Go Planning Algorithm (IROS '19)
+
+*Planning Beyond the Sensing Horizon Using a Learned Context*
+
+Michael Everett, Justin Miller, Jonathan P. How
+
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019
+
+Paper: [example link](http://example.com/)
+
+Video: [example link](http://example.com/)
+
+![network architecture](./misc/network_arch.png)
+
+**Note: This code is under review for release. In the meantime, please see our paper.**
+
+Bibtex:
+```
+todo
+```
