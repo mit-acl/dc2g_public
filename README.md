@@ -16,5 +16,12 @@ Video: [example link](http://example.com/)
 
 Bibtex:
 ```
-todo
+@inproceedings{Everett19_IROS,
+	Address = {Macau, China},
+	Author = {Michael Everett and Justin Miller and Jonathan P. How},
+	Booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+	Date-Modified = {2019-06-22 06:18:08 -0400},
+	Month = {November},
+	Title = {Planning Beyond The Sensing Horizon Using a Learned Context},
+	Year = {2019 (to appear)}}
 ```
