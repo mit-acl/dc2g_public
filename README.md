@@ -10,7 +10,7 @@ Paper: [example link](http://example.com/)
 
 Video: [example link](http://example.com/)
 
-![network architecture](./misc/network_arch.png)
+![network architecture](./misc/dc2g_architecture.png)
 
 **Note: This code is under review for release. In the meantime, please see our paper.**
 
