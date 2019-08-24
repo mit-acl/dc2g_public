@@ -6,9 +6,9 @@ Michael Everett, Justin Miller, Jonathan P. How
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019
 
-Paper: [example link](http://example.com/)
+Paper: [link to be added](todo)
 
-Video: [example link](http://example.com/)
+Video: [https://youtu.be/yVlnbqEFct0](https://youtu.be/yVlnbqEFct0)
 
 ![network architecture](./misc/dc2g_architecture.png)
 
@@ -23,5 +23,6 @@ Bibtex:
 	Date-Modified = {2019-06-22 06:18:08 -0400},
 	Month = {November},
 	Title = {Planning Beyond The Sensing Horizon Using a Learned Context},
-	Year = {2019 (to appear)}}
+	Year = {2019 (to appear)}
+}
 ```
