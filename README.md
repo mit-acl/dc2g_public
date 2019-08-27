@@ -6,7 +6,7 @@ Michael Everett, Justin Miller, Jonathan P. How
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019
 
-Paper: [link to be added](todo)
+Paper: [https://arxiv.org/abs/1908.09171](https://arxiv.org/abs/1908.09171)
 
 Video: [https://youtu.be/yVlnbqEFct0](https://youtu.be/yVlnbqEFct0)
 
